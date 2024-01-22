@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudApp/static/css/main.ddaa7dda.css",
+    "main.js": "/crudApp/static/js/main.60fdf7a4.js",
+    "static/media/bootstrap-icons.woff?": "/crudApp/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/crudApp/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/crudApp/index.html",
+    "main.ddaa7dda.css.map": "/crudApp/static/css/main.ddaa7dda.css.map",
+    "main.60fdf7a4.js.map": "/crudApp/static/js/main.60fdf7a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddaa7dda.css",
+    "static/js/main.60fdf7a4.js"
+  ]
+}
